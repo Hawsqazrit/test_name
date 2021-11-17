@@ -1,7 +1,5 @@
 # This is a test file.
 
-**睡觉啦，晚安~**
-
 - **Code**
 - **Issues**
 - **Pull requests**
