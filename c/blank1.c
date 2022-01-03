@@ -6,7 +6,7 @@ typedef struct
 {
     char num[5];
     double s;
-}   STU;
+} STU;
 
 int fun(STU x[N], char p[][5])
 {
