@@ -15,18 +15,15 @@ int fun(STU x[N], char p[][5])
 
     for (i = 0; i < N; i++)
         ave += x[i];
-
     ave /= N;
 
     for (i = 0; i < N; i++)
-
         if (x[i].s > ave) {
             // strcpy: string copy
             // strcpy(a, b) 把b复制到a
             strcpy(p[n], x[i].num);
             n++;
         }
-
     return(n);
 }
 
