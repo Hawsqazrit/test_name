@@ -1,6 +1,5 @@
 - Rufus
 - Snipaste
-- Everything
 - QuickLook
 - Dynamic Theme
 - Auto Dark Mode
