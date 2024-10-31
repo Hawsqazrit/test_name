@@ -3,3 +3,4 @@
 - QuickLook
 - Dynamic Theme
 - Auto Dark Mode
+- SumatraPDF
